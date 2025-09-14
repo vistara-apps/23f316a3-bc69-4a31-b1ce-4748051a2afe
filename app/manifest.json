@@ -1,0 +1,23 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "LinkGuardian",
+    "homeUrl": "https://linkguardian.base.app",
+    "iconUrl": "https://linkguardian.base.app/icon.png",
+    "splashImageUrl": "https://linkguardian.base.app/splash.png",
+    "splashBackgroundColor": "#2D3748",
+    "subtitle": "Safeguard your clicks",
+    "description": "Instantly detect scam and phishing links. Protect yourself from malicious URLs with real-time security analysis.",
+    "screenshotUrls": [
+      "https://linkguardian.base.app/screenshot1.png",
+      "https://linkguardian.base.app/screenshot2.png"
+    ],
+    "primaryCategory": "security",
+    "tags": ["security", "phishing", "scam", "url-scanner", "safety"],
+    "heroImageUrl": "https://linkguardian.base.app/hero.png",
+    "tagline": "Safeguard your clicks: Instantly detect scam and phishing links",
+    "ogTitle": "LinkGuardian - URL Security Scanner",
+    "ogDescription": "Protect yourself from malicious links with instant scam detection",
+    "ogImageUrl": "https://linkguardian.base.app/og-image.png"
+  }
+}
