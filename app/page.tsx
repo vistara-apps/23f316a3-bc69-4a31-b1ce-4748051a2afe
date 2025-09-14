@@ -117,19 +117,19 @@ export default function HomePage() {
       )}
 
       {/* Info Section */}
-      <div className="card max-w-md mx-auto bg-surface/50">
-        <h3 className="font-bold text-lg mb-3 text-accent">How it works</h3>
+      <div className="card max-w-md mx-auto bg-slate-800/50">
+        <h3 className="font-bold text-lg mb-3 text-teal-400">How it works</h3>
         <ul className="space-y-2 text-sm text-gray-300">
           <li className="flex items-start space-x-2">
-            <span className="w-1.5 h-1.5 bg-accent rounded-full mt-2 flex-shrink-0"></span>
+            <span className="w-1.5 h-1.5 bg-teal-400 rounded-full mt-2 flex-shrink-0"></span>
             <span>Paste any URL to check for scam and phishing patterns</span>
           </li>
           <li className="flex items-start space-x-2">
-            <span className="w-1.5 h-1.5 bg-accent rounded-full mt-2 flex-shrink-0"></span>
+            <span className="w-1.5 h-1.5 bg-teal-400 rounded-full mt-2 flex-shrink-0"></span>
             <span>Get instant security assessment with confidence scores</span>
           </li>
           <li className="flex items-start space-x-2">
-            <span className="w-1.5 h-1.5 bg-accent rounded-full mt-2 flex-shrink-0"></span>
+            <span className="w-1.5 h-1.5 bg-teal-400 rounded-full mt-2 flex-shrink-0"></span>
             <span>Free tier includes 10 scans per day</span>
           </li>
         </ul>

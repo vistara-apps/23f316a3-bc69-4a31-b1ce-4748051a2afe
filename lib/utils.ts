@@ -1,4 +1,5 @@
 import { type ClassValue, clsx } from 'clsx';
+import { User, ScamPattern } from './types';
 
 export function cn(...inputs: ClassValue[]) {
   return clsx(inputs);
