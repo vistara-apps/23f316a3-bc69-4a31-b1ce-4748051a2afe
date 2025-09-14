@@ -1,0 +1,14 @@
+{
+  "name": "LinkGuardian",
+  "description": "LinkGuardian is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://23f316a3-bc69-4a31-b1ce-4748051a2afe.vercel.app",
+  "properties": {
+    "app": {
+      "name": "LinkGuardian",
+      "description": "LinkGuardian is a Base Mini App built with Zara.",
+      "url": "https://23f316a3-bc69-4a31-b1ce-4748051a2afe.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
