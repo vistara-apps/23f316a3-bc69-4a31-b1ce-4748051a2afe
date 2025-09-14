@@ -39,12 +39,12 @@ export function LinkInput({ onScan, isLoading, placeholder = "Paste Link Here" }
           value={url}
           onChange={handleInputChange}
           placeholder={placeholder}
-          className={`input ${error ? 'border-danger focus:ring-danger' : ''}`}
+          className={`input ${error ? 'border-red-500 focus:ring-red-500' : ''}`}
           disabled={isLoading}
           maxLength={2048}
         />
         {error && (
-          <p className="mt-2 text-sm text-danger">{error}</p>
+          <p className="mt-2 text-sm text-red-400">{error}</p>
         )}
       </div>
       
